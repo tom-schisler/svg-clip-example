@@ -419,6 +419,7 @@ a:hover, a:focus {
   text-align: left;
   flex-flow: column nowrap;
   width: 100%;
+  max-width: 1220px;
   height: auto;
   max-height: 0;
   opacity: 0;
